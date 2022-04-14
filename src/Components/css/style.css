@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap");
+
+
+
+
+
+.box {
+  height: 50vh;
+  width: 40vh;
+  background-color: rgb(200, 200, 241);
+  border-radius: 10px;
+  margin:auto;
+  margin-top: 20%;
+  border-color: rgb(200, 200, 241);
+  font-family: "Jost";
+  
+}
+
+.inputField {
+ height: 35px;
+  margin-top: 25px;
+  margin-left: 19px;
+  border-radius: 15px;
+  width: 250px;
+  color: teal;
+  font-family:"Jost";
+text-align: center;
+padding-left: 10px;
+font-size: 18px;
+}
+ .location{
+     margin-top: 5%;
+     margin-left: 7%;
+     font-family: "Jost";
+ }
+ .temp{
+     margin-left: 7%;
+     color: teal;
+     font-size: 55px;
+ } 
+ .tempmin_max{
+/* margin-left: 4%; */
+margin-top: 35%;
+color: darkcyan;
+text-align: center;
+ }
+
+ .error{
+   text-align: center;
+   font-family: "Jost";
+   color: darkslategray;
+   font-size: 25px;
+ }
